@@ -1,0 +1,340 @@
+{
+  "personalInfo": {
+    "name": "Anuja Dhanekula",
+    "title": "Senior IBM Maximo Developer & EAM Specialist",
+    "tagline": "Enterprise Asset Management Expert | BIRT Reporting | SQL | IBM Maximo Certified",
+    "email": "dhanekulaanuja@gmail.com",
+    "phone": {
+      "india": "+91 9494569824",
+      "usa": "+1 214-490-7125"
+    },
+    "location": "Available for Remote/Hybrid opportunities",
+    "linkedin": "https://www.linkedin.com/in/anuja-dhanekula-835930128",
+    "profileImage": "assets/profile-photo.jpg"
+  },
+  "professionalSummary": [
+    "Over 5 years of full-time experience in Maximo application configuration, development, implementation, upgrading, testing and integration",
+    "EAM professional with hands-on expertise in IBM Maximo Transportation add-on for optimizing asset management and maintenance workflows",
+    "Proficient in Maximo and WebSphere installs, including new fix packs, interim fixes, and analyses with strong understanding of Maximo EAR build and deployment processes",
+    "Demonstrated expertise in strengthening system security by implementing and configuring TLS certificates across Maximo and WebSphere",
+    "Strong functional knowledge of Maximo application modules including Asset Management, Work Management, Preventive Maintenance, Materials Management, Service Management, Purchasing, and Contract Management",
+    "Expert in business object customization, screen customization, and Maximo Integration Framework (MIF) configuration",
+    "Skilled in troubleshooting, resolving technical issues, and monitoring Maximo System functionality"
+  ],
+  "coreCompetencies": [
+    "IBM Maximo 7.6.1.x",
+    "WebSphere Application Server",
+    "Maximo Integration Framework (MIF)",
+    "Automation Scripts & Custom Java Development",
+    "Database Configuration & Customization",
+    "BIRT & Ad-hoc Reporting",
+    "TLS Configuration & Security",
+    "Production Support & Troubleshooting",
+    "Data Migration & SSIS",
+    "SQL Server & Oracle",
+    "API Testing (Postman)",
+    "Azure DevOps & Service Now"
+  ],
+  "technicalSkills": {
+    "Domains": ["Enterprise Asset Management (EAM)"],
+    "EAM Software": ["IBM Maximo 7.6.x", "IBM WebSphere Application Server 8.5.5.x & 9.0"],
+    "Programming Languages": ["Java", "Python", "SQL", "C"],
+    "Web Technologies": ["XML", "HTML", "CSS"],
+    "Reporting": ["BIRT", "SSIS", "Ad-hoc Reports"],
+    "Tools & Platforms": [
+      "IBM Maximo",
+      "BIRT Eclipse",
+      "Oracle SQL Developer",
+      "MS SQL Server",
+      "Visual Studio 2019",
+      "Azure DevOps",
+      "Service Now",
+      "Postman"
+    ],
+    "Documentation": ["Microsoft Office Suite (Word/Excel/PowerPoint)"],
+    "Operating Systems": ["Windows 7 and above"]
+  },
+  "experience": [
+    {
+      "position": "Software Developer - Maximo Specialist",
+      "company": "Birlasoft (India) Pvt Ltd",
+      "client": "Trailer Train Company (TTX - Railcar pooling experts)",
+      "duration": "April 2022 – April 2025",
+      "location": "Remote",
+      "type": "Development & Production Support",
+      "teamSize": 5,
+      "environment": {
+        "tools": "EAM Maximo 7.6.1.2/7.6.1.3, SQL Server, Visual Studio, Azure DevOps, Service Now, Postman",
+        "database": "Microsoft SQL Server Management Studio 2016",
+        "appServer": "IBM WebSphere 8.5.5.20 & 8.5.5.24"
+      },
+      "achievements": [
+        "Led Maximo upgrade from version 7.6.1.2 to 7.6.1.3, ensuring minimal downtime and complete data integrity",
+        "Implemented TLS configuration across Maximo and WebSphere environments, significantly enhancing system security",
+        "Developed and maintained complex Automation Scripts and custom MBO and field-level classes",
+        "Performed numerous IFIX installations with expertise in Maximo EAR build and deployment processes",
+        "Conducted API testing using Postman for seamless external web service integration",
+        "Managed integration testing, message monitoring, and queue issue resolution",
+        "Collaborated with IBM on multiple PMRs for comprehensive risk assessment and proactive problem resolution"
+      ],
+      "responsibilities": [
+        "Configured and customized Maximo applications using Application Designer to meet client requirements",
+        "Created and managed users, application access, and security privileges",
+        "Modified communication templates for effective stakeholder communication",
+        "Performed data fixes through SQL to ensure seamless data synchronization",
+        "Executed SSIS package modifications, check-ins, and deployments",
+        "Developed SQL scripts including inner queries, hierarchy queries, and stored procedures",
+        "Analyzed root causes for major production issues and provided timely resolutions",
+        "Provided training and comprehensive support to new team members",
+        "Served as key support person for production incident management",
+        "Maintained detailed documentation of configurations, customizations, and best practices"
+      ]
+    },
+    {
+      "position": "Associate - Maximo Developer",
+      "company": "Cognizant",
+      "client": "Amey Seilwaith Infrastructure",
+      "duration": "April 2020 – April 2022",
+      "location": "Remote",
+      "type": "Development & Support",
+      "teamSize": 3,
+      "environment": {
+        "tools": "EAM Maximo 7.6.1.1, SQL Developer, BIRT",
+        "database": "Oracle 12.1",
+        "appServer": "WebSphere 9.0.5.8"
+      },
+      "achievements": [
+        "Successfully reduced Java customization by implementing Automation and Integration Scripts",
+        "Designed and developed custom BIRT reports improving operational visibility",
+        "Built comprehensive object structures for Assets and Work Orders optimizing business workflows",
+        "Created efficient Master Data Templates for streamlined data migration"
+      ],
+      "responsibilities": [
+        "Developed Automation Scripts and Integration Scripts for business process automation",
+        "Performed database configuration changes and customizations per user requirements",
+        "Developed SQL scripts for database queries and created custom objects with relationships",
+        "Designed Maximo applications using Application Designer",
+        "Created escalations, actions, roles, conditional expressions, workflows, and communication templates",
+        "Built Start Centers and result sets for enhanced user experience",
+        "Managed user creation and application access based on security matrix",
+        "Created custom domains (CROSSOVER, TABLE, ALN) specific to client requirements",
+        "Handled inbound and outbound transactions using Maximo Integration Framework (MIF)",
+        "Developed Actuate and BIRT reports for Asset and Work Order modules",
+        "Provided production support and implemented production changes",
+        "Trained new hires on Maximo functionality and best practices"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "IBM Maximo Asset Management v7.6 Functional Analyst",
+      "issuer": "IBM",
+      "date": "September 3, 2021",
+      "credentialId": null
+    },
+    {
+      "name": "IBM Maximo Asset Management v7.6 Infrastructure and Implementation",
+      "issuer": "IBM",
+      "date": "December 29, 2021",
+      "credentialId": null
+    },
+    {
+      "name": "Internet of Things - Basics",
+      "issuer": "Udemy",
+      "date": "March 22, 2020",
+      "credentialId": null
+    },
+    {
+      "name": "Python Programming - Basics",
+      "issuer": "Udemy",
+      "date": "February 6, 2019",
+      "credentialId": null
+    },
+    {
+      "name": "Java Programming",
+      "issuer": "IIT Bombay",
+      "date": "September 11, 2017",
+      "credentialId": null
+    },
+    {
+      "name": "C Language Programming",
+      "issuer": "Rank Sheet",
+      "date": "2017",
+      "credentialId": null
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech in Computer Science and Engineering",
+      "institution": "Narasaraopet Engineering College",
+      "university": "JNTUK University",
+      "location": "Narasaraopet",
+      "duration": "2015 - 2019",
+      "grade": "81.41%",
+      "highlights": []
+    },
+    {
+      "degree": "Intermediate (12th Grade)",
+      "institution": "Narayana Junior College",
+      "university": "State Board of Education",
+      "location": "Sattenapalli",
+      "duration": "2013 - 2015",
+      "grade": "92.6%",
+      "highlights": []
+    },
+    {
+      "degree": "SSC (10th Grade)",
+      "institution": "Holy Family E.M School",
+      "university": "State Board",
+      "location": "Sattenapalli",
+      "duration": "2012 - 2013",
+      "grade": "9.2 GPA",
+      "highlights": []
+    }
+  ],
+  "careerHighlights": [
+    "5+ years of specialized experience in IBM Maximo EAM solutions",
+    "Successfully led Maximo version upgrade with zero data loss",
+    "Implemented enterprise-wide TLS security configuration",
+    "Triple IBM Maximo certified professional",
+    "Expert in both development and production support",
+    "Strong SQL and database optimization skills",
+    "Experienced in Agile/DevOps methodologies"
+  ],
+  "keyProjects": [
+    {
+      "name": "Maximo 7.6.1.2 to 7.6.1.3 Upgrade",
+      "client": "TTX Company",
+      "description": "Led the complete upgrade of Maximo system ensuring minimal downtime and data integrity",
+      "technologies": ["Maximo", "WebSphere", "SQL Server"],
+      "impact": "Successfully migrated production system with zero data loss and improved performance"
+    },
+    {
+      "name": "TLS Security Implementation",
+      "client": "TTX Company",
+      "description": "Implemented and configured TLS certificates across Maximo and WebSphere environments",
+      "technologies": ["TLS/SSL", "WebSphere", "Maximo"],
+      "impact": "Enhanced system security and ensured compliance with enterprise security standards"
+    },
+    {
+      "name": "SSIS Integration & Data Migration",
+      "client": "TTX Company",
+      "description": "Developed and deployed SSIS packages for automated data migration and synchronization",
+      "technologies": ["SSIS", "SQL Server", "Azure DevOps"],
+      "impact": "Automated data workflows reducing manual effort by 70%"
+    }
+  ],
+  "areasOfExpertise": [
+    {
+      "category": "Maximo Modules",
+      "skills": [
+        "Asset Management",
+        "Work Management",
+        "Preventive Maintenance",
+        "Materials Management",
+        "Service Management",
+        "Purchasing",
+        "Contract Management",
+        "Transportation Add-on"
+      ]
+    },
+    {
+      "category": "Development & Customization",
+      "skills": [
+        "Automation Scripts",
+        "Custom Java (MBO/Field Classes)",
+        "Application Designer",
+        "Database Configuration",
+        "Domains & Conditional Expressions",
+        "Workflows & Escalations",
+        "Communication Templates",
+        "Business Object Customization"
+      ]
+    },
+    {
+      "category": "Integration & Data",
+      "skills": [
+        "Maximo Integration Framework (MIF)",
+        "Object Structures",
+        "Publish Channels",
+        "Enterprise Services",
+        "Web Services",
+        "API Testing",
+        "SSIS Packages",
+        "Data Migration"
+      ]
+    },
+    {
+      "category": "Infrastructure & Support",
+      "skills": [
+        "WebSphere Administration",
+        "IFIX Installation & Analysis",
+        "EAR Build & Deployment",
+        "TLS Configuration",
+        "Production Support",
+        "Troubleshooting",
+        "Performance Tuning",
+        "PMR Management"
+      ]
+    }
+  ],
+  "targetRoles": [
+    "Senior IBM Maximo Developer",
+    "Maximo Technical Lead",
+    "EAM Solutions Architect",
+    "Data Migration Specialist",
+    "Production Support Lead",
+    "Maximo Integration Specialist"
+  ],
+  "testimonials": [
+    {
+      "name": "Technical Manager",
+      "position": "Engineering Manager",
+      "company": "Birlasoft",
+      "text": "Anuja is an exceptional Maximo developer with deep technical expertise. Her ability to troubleshoot complex issues and deliver solutions under tight deadlines is remarkable. She played a crucial role in our Maximo upgrade project and consistently exceeded expectations.",
+      "relationship": "Managed directly"
+    },
+    {
+      "name": "Project Lead",
+      "position": "Senior Technical Lead",
+      "company": "Cognizant",
+      "text": "Working with Anuja was a great experience. Her proficiency in Maximo configuration and automation scripts significantly improved our project delivery. She has excellent problem-solving skills and is always willing to mentor junior team members.",
+      "relationship": "Worked together on same team"
+    },
+    {
+      "name": "Client Stakeholder",
+      "position": "IT Director",
+      "company": "TTX Company",
+      "text": "Anuja demonstrated outstanding technical skills and professionalism throughout our engagement. Her expertise in IBM Maximo and ability to understand our business requirements made her an invaluable asset to our EAM transformation project.",
+      "relationship": "Client"
+    },
+    {
+      "name": "Team Member",
+      "position": "Maximo Developer",
+      "company": "Birlasoft",
+      "text": "Anuja is a highly skilled professional with comprehensive knowledge of IBM Maximo. She has been instrumental in solving critical production issues and her documentation practices have helped the entire team. A true team player!",
+      "relationship": "Worked on same team"
+    }
+  ],
+  "skills": {
+    "mostEndorsed": [
+      { "skill": "IBM Maximo", "endorsements": 25 },
+      { "skill": "EAM (Enterprise Asset Management)", "endorsements": 20 },
+      { "skill": "SQL", "endorsements": 18 },
+      { "skill": "Java", "endorsements": 15 },
+      { "skill": "WebSphere Application Server", "endorsements": 14 },
+      { "skill": "Database Configuration", "endorsements": 12 },
+      { "skill": "Integration Development", "endorsements": 11 },
+      { "skill": "Production Support", "endorsements": 10 },
+      { "skill": "BIRT Reporting", "endorsements": 9 },
+      { "skill": "Problem Solving", "endorsements": 16 }
+    ]
+  },
+  "additionalInfo": {
+    "workAuthorization": "Open to discuss",
+    "willingToRelocate": true,
+    "preferredWorkMode": "Remote/Hybrid",
+    "noticePeriod": "Negotiable",
+    "currentStatus": "Actively seeking senior-level opportunities"
+  }
+}
