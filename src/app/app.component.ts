@@ -86,6 +86,11 @@ export class AppComponent implements OnInit {
     }
   }
 
+  navigateToMyBlog(): void
+  {
+    window.open('https://dhanekulaanuja-udlci.wordpress.com/', '_blank');
+  }
+
   scrollToTop(): void {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   }
