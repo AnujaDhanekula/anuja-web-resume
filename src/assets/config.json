@@ -2,7 +2,7 @@
   "personalInfo": {
     "name": "Anuja Dhanekula",
     "title": "Senior IBM Maximo Developer & EAM Specialist",
-    "tagline": "Enterprise Asset Management Expert | BIRT Reporting | SQL | IBM Maximo Certified",
+    "tagline": "IBM Maximo Certified | Enterprise Asset Management Expert | BIRT Reporting | SQL ",
     "email": "dhanekulaanuja@gmail.com",
     "phone": {
       "india": "+91 9494569824",
@@ -18,11 +18,18 @@
     "Proficient in Maximo and WebSphere installs, including new fix packs, interim fixes, and analyses with strong understanding of Maximo EAR build and deployment processes",
     "Demonstrated expertise in strengthening system security by implementing and configuring TLS certificates across Maximo and WebSphere",
     "Strong functional knowledge of Maximo application modules including Asset Management, Work Management, Preventive Maintenance, Materials Management, Service Management, Purchasing, and Contract Management",
-    "Expert in business object customization, screen customization, and Maximo Integration Framework (MIF) configuration",
+    "Operational knowledge in functional areas of Maximo like Assets, Inventory, Purchasing, PM and Work Order, Job Plans, SR and other functional Maximo Modules",
+    "Experience in configuring object structure, publish channel, enterprise service, external system, and web services utilizing the Maximo Integration Framework (MIF)",
+    "Skilled in configuring IBM Maximo applications through database configuration, application designer, domains, escalations, cron task, actions, roles and workflows to simplify the process",
+    "Possess working knowledge in generating Ad-hoc and BIRT reports to support analytical insights and operational reporting within Maximo environments",
+    "Expert in business object customization and customization of screens",
+    "Proficient in developing Automation Scripts and Integration Scripts to automate business processes and enhance system functionality",
+    "Strong SQL skills with experience in writing complex queries, stored procedures, and data fixes to support Maximo operations",
+    "Experienced in loading and transferring data to Maximo",
     "Skilled in troubleshooting, resolving technical issues, and monitoring Maximo System functionality"
   ],
   "coreCompetencies": [
-    "IBM Maximo 7.6.1.x",
+    "IBM Maximo 7.6.1.3",
     "WebSphere Application Server",
     "Maximo Integration Framework (MIF)",
     "Automation Scripts & Custom Java Development",
@@ -37,7 +44,7 @@
   ],
   "technicalSkills": {
     "Domains": ["Enterprise Asset Management (EAM)"],
-    "EAM Software": ["IBM Maximo 7.6.x", "IBM WebSphere Application Server 8.5.5.x & 9.0"],
+    "EAM Software": ["IBM Maximo 7.6.1.3", "IBM WebSphere Application Server 8.5.5.24"],
     "Programming Languages": ["Java", "Python", "SQL", "C"],
     "Web Technologies": ["XML", "HTML", "CSS"],
     "Reporting": ["BIRT", "SSIS", "Ad-hoc Reports"],
@@ -57,7 +64,7 @@
   "experience": [
     {
       "position": "Software Developer - Maximo Consultant",
-      "company": "Birlasoft (India) Pvt Ltd",
+      "company": "Birlasoft Pvt Ltd",
       "client": "Trailer Train Company (TTX - Railcar pooling experts)",
       "duration": "April 2022 – April 2025",
       "location": "Hyderabad, India",
