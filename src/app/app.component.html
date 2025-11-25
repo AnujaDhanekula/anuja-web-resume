@@ -3,8 +3,10 @@
   <div class="nav-container">
     <div class="logo">{{'Anuja'}}</div>
     
-    <button class="menu-toggle" (click)="toggleMenu()" [class.active]="menuOpen">
-      ☰
+    <button class="menu-toggle" (click)="toggleMenu()" [class.active]="menuOpen" aria-label="Toggle menu">
+      <span></span>
+      <span></span>
+      <span></span>
     </button>
 
     <ul [class.active]="menuOpen">
