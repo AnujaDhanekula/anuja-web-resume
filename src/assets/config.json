@@ -56,11 +56,11 @@
   },
   "experience": [
     {
-      "position": "Software Developer - Maximo Specialist",
+      "position": "Software Developer - Maximo Consultant",
       "company": "Birlasoft (India) Pvt Ltd",
       "client": "Trailer Train Company (TTX - Railcar pooling experts)",
       "duration": "April 2022 – April 2025",
-      "location": "Remote",
+      "location": "Hyderabad, India",
       "type": "Development & Production Support",
       "teamSize": 5,
       "environment": {
@@ -95,7 +95,7 @@
       "company": "Cognizant",
       "client": "Amey Seilwaith Infrastructure",
       "duration": "April 2020 – April 2022",
-      "location": "Remote",
+      "location": "Hyderabad, India",
       "type": "Development & Support",
       "teamSize": 3,
       "environment": {
@@ -126,17 +126,29 @@
     }
   ],
   "certifications": [
+     {
+      "name": "IBM Certified Deployment Professional - Maximo Manage v8.0",
+      "issuer": "IBM",
+      "date": "August 28, 2023",
+      "credentialId": "https://www.credly.com/badges/ca873a9a-33f4-4083-aa1f-1585b0acbc3b/public_url"
+    },
     {
       "name": "IBM Maximo Asset Management v7.6 Functional Analyst",
       "issuer": "IBM",
       "date": "September 3, 2021",
-      "credentialId": null
+      "credentialId": "https://www.credly.com/badges/e8a11bb9-62df-4a97-aacc-82ef157ac6c2?source=linked_in_profile"
     },
+     {
+      "name": "IBM Certified Advanced Deployment Professional - Maximo Asset Management v7.6",
+      "issuer": "IBM",
+      "date": "December 29, 2021",
+      "credentialId": "https://www.credly.com/badges/9ac7c146-08f7-4662-b9ea-2b0e032c8718?source=linked_in_profile"
+      },
     {
       "name": "IBM Maximo Asset Management v7.6 Infrastructure and Implementation",
       "issuer": "IBM",
       "date": "December 29, 2021",
-      "credentialId": null
+      "credentialId": "https://www.credly.com/badges/f31c9baa-7512-4121-9477-3984578d2f4f?source=linked_in_profile"
     },
     {
       "name": "Internet of Things - Basics",
