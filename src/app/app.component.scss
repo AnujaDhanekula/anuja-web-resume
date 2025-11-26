@@ -1393,6 +1393,37 @@ section {
           content: '📅';
         }
       }
+
+      .cert-link {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        margin-top: 16px;
+        padding: 10px 16px;
+        background: linear-gradient(135deg, $primary 0%, $secondary 100%);
+        color: #fff;
+        text-decoration: none;
+        border-radius: 8px;
+        font-weight: 600;
+        font-size: 0.95rem;
+        transition: all 0.3s ease;
+        border: none;
+        cursor: pointer;
+
+        &::before {
+          content: '🔗';
+        }
+
+        &:hover {
+          transform: translateY(-2px);
+          box-shadow: 0 8px 20px rgba($primary, 0.3);
+          background: linear-gradient(135deg, darken($primary, 5%) 0%, darken($secondary, 5%) 100%);
+        }
+
+        &:active {
+          transform: translateY(0);
+        }
+      }
     }
   }
 }

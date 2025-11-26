@@ -179,6 +179,7 @@
         <h3 class="cert-name">{{ cert.name }}</h3>
         <p class="cert-issuer">{{ cert.issuer }}</p>
         <p class="cert-date">{{ cert.date }}</p>
+        <a *ngIf="cert.credentialUrl" [href]="cert.credentialUrl" target="_blank" rel="noopener noreferrer" class="cert-link">View Credential</a>
       </div>
     </div>
   </div>
