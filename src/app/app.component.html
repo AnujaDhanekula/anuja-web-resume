@@ -3,6 +3,15 @@
   <div class="nav-container">
     <div class="logo">{{'Anuja'}}</div>
     
+    <div class="search-wrapper" role="search" aria-label="Site search">
+      <input type="text" class="search-input" placeholder="Search..." [(ngModel)]="searchQuery" aria-label="Search input" (keydown.enter)="onSearch()" (keydown.escape)="clearSearch()">
+      <button class="search-btn" type="button" aria-label="Search" (click)="onSearch()">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="20" height="20">
+          <path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0016 9.5 6.5 6.5 0 109.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zM10 14a4 4 0 110-8 4 4 0 010 8z"/>
+        </svg>
+      </button>
+    </div>
+    
     <button class="menu-toggle" (click)="toggleMenu()" [class.active]="menuOpen" aria-label="Toggle menu">
       <span></span>
       <span></span>

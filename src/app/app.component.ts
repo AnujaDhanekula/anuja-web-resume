@@ -41,6 +41,7 @@ import { HttpClient } from '@angular/common/http';
 })
 export class AppComponent implements OnInit {
   title = 'Anuja Dhanekula - Resume';
+  searchQuery: string = '';
   resumeData: any = null;
   menuOpen = false;
   isScrolled = false;
@@ -51,6 +52,40 @@ export class AppComponent implements OnInit {
 
   ngOnInit(): void {
     this.loadResumeData();
+  }
+
+  onSearch(): void {
+    this.clearHighlights();
+    const q = (this.searchQuery || '').trim();
+    if (!q) return;
+
+    const query = q.toLowerCase();
+
+    const elements = Array.from(document.querySelectorAll('body *')) as HTMLElement[];
+    const excludedTags = new Set(['SCRIPT', 'STYLE', 'NAV', 'BUTTON', 'INPUT', 'SVG', 'LINK', 'META']);
+
+    const matches = elements.filter(el => {
+      if (!el || !el.textContent) return false;
+      if (excludedTags.has(el.tagName)) return false;
+      const txt = el.textContent.trim().toLowerCase();
+      return txt.includes(query);
+    });
+
+    if (!matches.length) return;
+
+    const first = matches[0];
+    first.classList.add('search-highlight');
+    first.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  }
+
+  clearSearch(): void {
+    this.searchQuery = '';
+    this.clearHighlights();
+  }
+
+  private clearHighlights(): void {
+    const prev = Array.from(document.querySelectorAll('.search-highlight')) as HTMLElement[];
+    prev.forEach(el => el.classList.remove('search-highlight'));
   }
 
   loadResumeData(): void {
